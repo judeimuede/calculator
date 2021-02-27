@@ -1,2 +1,2 @@
 This is a calculator built using Python GUI called Tkinter. 
-You're welcome to fork and improve this program such that it becomes more friendlier.
+You could run the script from a local environment in this format: python calc.py
